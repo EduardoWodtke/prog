@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  A
+  <h1>MINDE</h1>
 </template>
 
 <style scoped>
